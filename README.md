@@ -1,0 +1,2 @@
+# Freecodecamp Javascript
+ Freecodecamp exercises
